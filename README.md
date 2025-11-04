@@ -1,2 +1,2 @@
 # DataVerse
-Synthetic Data Generatin
+Synthetic Data Generation
